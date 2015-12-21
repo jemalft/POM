@@ -9,7 +9,7 @@ technologies to get the test automation in POM.
 -Jenkins Countinous Integration Tool(CI)
 
 I am creating Hybrid Automation Framework that can be used as a reference for any web applications.
-1.The first step will be creating automation framework forlder stracture
+1.The first step will be creating automation framework folder stracture
 2.Create Test scripts from Test cases 
 3.Prepare Test data and store DOM objects in object repository file
 4.Test suits contains the logics to verify
