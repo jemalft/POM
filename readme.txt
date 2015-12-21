@@ -15,5 +15,8 @@ I am creating Hybrid Automation Framework that can be used as a reference for an
 4.Test suits contains the logics to verify
 5.Create reporting modules,capture screenshots,HTM based logs and HTML based report/chart report[excution summery/Test script result/Error log/
 6.excute script on various browsers as per needed
+please have a look (diagrame 11) to understand different layers of the Automation Framework
+
+
 
 
